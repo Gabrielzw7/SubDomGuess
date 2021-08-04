@@ -37,5 +37,5 @@ for linhas in l.readlines():
                 status = resposta.status_code
                 print "%s \033[32m %s\033[m"%(urlcomp,status)
         except requests.exceptions.ConnectionError:     #-tratamento de erro
-                print urlcomp + "\033[31m HOST OFF"
+                print urlcomp + "\033[31m HOST OFF \033[m"
 
