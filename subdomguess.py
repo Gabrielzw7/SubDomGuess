@@ -17,7 +17,7 @@ if len(sys.argv) != 3:
         print "\033[35mpython\033[m \033[32msubdomguess.py https://www.site.com dns-wordlist\033[m"
         sys.exit()
 
-#-alocando dados nas variaveis
+#-Alocando as entradas nas variaveis
 
 url = sys.argv[1]
 lista = sys.argv[2]
