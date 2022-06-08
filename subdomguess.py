@@ -13,7 +13,7 @@ import sys
 if len(sys.argv) != 3:
         print "\n\033[33m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \033[m"
         print "\033[33m  SubDomGuess - Uma ferramenta para Brute Force em Subdominios   \033[m"
-        print "\n\033[33m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \033[m"
+        print "\033[33m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \033[m"
         print "\n\033[33m Feito por Gabriel W. para fins \033[31m educacionais \033[m"
         print "\033[33m Para o melhor funcionamento utilize uma boa wordlist \033[m\n"
         print "\033[32m Modo de uso:\033[m"
