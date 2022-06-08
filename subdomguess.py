@@ -11,10 +11,13 @@ import sys
 #-validacao de argumentos
 
 if len(sys.argv) != 3:
-        print "\n\033[33mFeito por Gabriel W. para fins \033[31m educacionais \033[m"
-        print "\033[33mPara o melhor funcionamento utilize uma boa wordlist\033[m\n"
-        print "\033[32mModo de uso:\033[m"
-        print "\033[35mpython\033[m \033[32msubdomguess.py https://www.site.com dns-wordlist\033[m"
+        print "\n\033[33m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \033[m"
+        print "\033[33m  SubDomGuess - Uma ferramenta para Brute Force em Subdominios   \033[m"
+        print "\n\033[33m Feito por Gabriel W. para fins \033[31m educacionais \033[m"
+        print "\033[33m Para o melhor funcionamento utilize uma boa wordlist\033[m\n"
+        print "\033[32m Modo de uso:\033[m"
+        print "\033[35m python\033[m \033[32msubdomguess.py https://www.site.com dns-wordlist\033[m"
+        print "\n\033[33m +++++++++++++++++++++++++++ BRASIL ++++++++++++++++++++++++++ \033[m"
         sys.exit()
 
 #-Alocando as entradas nas variaveis
