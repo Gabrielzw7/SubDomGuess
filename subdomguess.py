@@ -15,9 +15,9 @@ if len(sys.argv) != 3:
         print "\033[33m  SubDomGuess - Uma ferramenta para Brute Force em Subdominios   \033[m"
         print "\033[33m ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \033[m"
         print "\n\033[33m Feito por Gabriel W.\033[m"
-        print "\033[33m Para o melhor funcionamento utilize uma boa wordlist \033[m\n"
+        print "\033[33m Para o melhor funcionamento utilize uma boa wordlist... \033[m\n"
         print "\033[32m Modo de uso:\033[m"
-        print "\033[35m python\033[m \033[32msubdomguess.py https://www.site.com dns-wordlist\033[m"
+        print "\033[35m ./subdomguess.py\033[m \033[32m https://www.site.com dns-wordlist\033[m"
         print "\n\033[33m ++++++++++++++++++++++++++ BRASIL +++++++++++++++++++++++++++ \033[m"
         sys.exit()
 
