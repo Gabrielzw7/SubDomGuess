@@ -1,3 +1,3 @@
 # SubDomGuess
 
-<div class="repo-card" data-repo="username/repository" data-theme="chartreuse-dark"></div>
+<div class="repo-card" data-repo="Gabrielzw7/SubDomGuess" data-theme="chartreuse-dark"></div>
