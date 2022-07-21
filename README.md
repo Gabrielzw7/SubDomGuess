@@ -1,3 +1,4 @@
 # SubDomGuess
 
-[![SubDomGuess](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielzw7&repo=SubDomGuess)](https://github.com/Gabrielzw7/SubDomGuess)
+## Ferramenta criada para auxiliar no reconhecimento da rede externa.
+## Em constante desenvolvimento.
