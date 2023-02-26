@@ -23,7 +23,6 @@ ns3
 photos
 pop
 portal
-portal
 remote
 rh
 secure
